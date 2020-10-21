@@ -1,0 +1,19 @@
+{
+  "kontakti": [
+    {
+      "id": 1,
+      "imeprezime": "Ante Antic",
+      "email": "anteantic@gmail.com"
+    },
+    {
+      "id": 2,
+      "imeprezime": "Ivan Ivic",
+      "email": "ivanivic@gmail.com"
+    },
+    {
+      "id": 3,
+      "imeprezime": "Mate Matic",
+      "email": "matematic@gmail.com"
+    }
+  ]
+}
