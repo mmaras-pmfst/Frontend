@@ -1,7 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import Kontakt from "./components/Kontakt";
 import kontaktiServer from "./services/kontakti";
-// import './App.css';
 
 const App=()=>{
   const [kontakti,postaviKontakte]=useState([]);
